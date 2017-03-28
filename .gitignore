@@ -1,0 +1,8 @@
+build/*
+env/*
+env_vars.py
+.idea/
+*.pyc
+logs/*
+
+local_settings.py
